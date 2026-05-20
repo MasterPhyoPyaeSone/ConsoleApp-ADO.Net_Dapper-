@@ -16,7 +16,6 @@ namespace EFCoreApp.Data
                 Console.WriteLine($"ID: {p.Id} | Name: {p.Name} | Price: ${p.Price} | Qty: {p.Quantity}");
             }
 
-
         }
 
         public void Create()
