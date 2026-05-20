@@ -57,3 +57,4 @@
 /Users/macbookpro/C#/ConsoleApp(Ado.net_Dapper)/AdoNetApp/obj/Debug/net10.0/AdoNetApp.pdb
 /Users/macbookpro/C#/ConsoleApp(Ado.net_Dapper)/AdoNetApp/obj/Debug/net10.0/AdoNetApp.genruntimeconfig.cache
 /Users/macbookpro/C#/ConsoleApp(Ado.net_Dapper)/AdoNetApp/obj/Debug/net10.0/ref/AdoNetApp.dll
+/Users/macbookpro/C#/ConsoleApp(Ado.net_Dapper)/AdoNetApp/obj/Debug/net10.0/AdoNetApp.sourcelink.json

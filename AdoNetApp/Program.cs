@@ -8,7 +8,7 @@ namespace AdoNetApp
         static void Main(string[] args)
         {
 
-            AdoNetAppService  adoNetAppService = new Data.AdoNetAppService();
+            AdoNetAppService  adoNetAppService = new AdoNetAppService();
 
             Console.WriteLine("Products List:");
             adoNetAppService.Read();
